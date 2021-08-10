@@ -1,0 +1,12 @@
+ 
+Aranan motif uzunlugu :3 
+
+Motifs: 
+[AAC], 
+[AAT], 
+[TAC], 
+[AAC], 
+[AAC], 
+
+Yineleme Sayisi = 100
+Mismatch Count (Best Score) = 2

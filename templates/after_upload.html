@@ -1,0 +1,58 @@
+<html>
+
+	<head>
+    <title>DNA RNA Sekans Hizalama, Motif Bulma</title>
+    </head>
+
+    <style>
+body {
+  background-image: url("https://i.ibb.co/JzXzrhP/bg1.png");
+}
+
+.div-1 {
+  width: max-content;
+  border: 5px solid gray;
+  padding: 100px;
+  margin: 20px;
+  text-align: center;
+
+}
+
+.div-2 {
+  width: max-content;
+  border: 5px solid gray;
+  padding: 100px;
+  margin: 20px;
+  text-align: center;
+
+}
+
+</style>
+
+<center>
+<body>
+    <div class="div-1">
+			<b>Dosyanız Başarı ile yüklenmiştir. "SEKANS HİZALAMA" işlem sonucunuz aşağıdadır.</b><br><br><br>
+            <pre>
+                {{ seqAlignmentFinal }}
+            </pre>
+            <h3 class="text-muted">DNA, RNA Sekans Hizalama, Motif Bulma</h3>
+    </div>
+
+    <div class="div-2">
+			<b>Dosyanız Başarı ile yüklenmiştir. "MOTİF BULMA" işlem sonucunuz aşağıdadır.</b><br><br><br>
+            <pre>
+                {{ motifFindingOutput }}
+            </pre>
+            <h3 class="text-muted">DNA, RNA Sekans Hizalama, Motif Bulma</h3>
+    </div>
+
+
+
+    <footer class="footer" >
+        <p>&copy; Halil Dogan 2020</p>
+    </footer>
+</body>
+</center>
+
+</html>

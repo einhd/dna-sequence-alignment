@@ -1,0 +1,202 @@
+
+Identity = 45.5 10/22
+Score = -2
+Sequence 1 : 
+GTAAACA-ATA--T-TTATAGC
+
+
+Sequence 2 : 
+--AAA-ATTTACCTCGCA-AGG
+
+
+Sym : 
+GTAAACA-ATA--T-TTATAGC
+..|||.|..||..|...|.||.
+--AAA-ATTTACCTCGCA-AGG
+
+
+--------------------------------------------- 
+
+
+
+
+Identity = 41.7 10/24
+Score = -4
+Sequence 1 : 
+--GTAAACAATATTTATAGC----
+
+
+Sequence 2 : 
+CCGT--AC--T-GTCA-AGCGTGG
+
+
+Sym : 
+--GTAAACAATATTTATAGC----
+..||..||..|..|.|.|||....
+CCGT--AC--T-GTCA-AGCGTGG
+
+
+--------------------------------------------- 
+
+
+
+
+Identity = 42.9 9/21
+Score = -3
+Sequence 1 : 
+---GTAAACAATATTTATAGC
+
+
+Sequence 2 : 
+TGAGTAAACGA-CGTCCCA--
+
+
+Sym : 
+---GTAAACAATATTTATAGC
+...||||||.|...|...|..
+TGAGTAAACGA-CGTCCCA--
+
+
+--------------------------------------------- 
+
+
+
+
+Identity = 45.5 10/22
+Score = -2
+Sequence 1 : 
+GTA---AACAATAT-TTATAGC
+
+
+Sequence 2 : 
+-TACTTAACACCCTGTCA-A---
+
+Sym : 
+GTA---AACAATAT-TTATAGC
+.||...||||...|.|.|.|..
+-TACTTAACACCCTGTCA-A---
+
+--------------------------------------------- 
+
+
+
+
+Identity = 42.9 9/21
+Score = -3
+Sequence 1 : 
+AAAATTTAC-CTC--GCAAGG
+
+
+Sequence 2 : 
+---CCGTACTGTCAAGCGTGG
+
+
+Sym : 
+AAAATTTAC-CTC--GCAAGG
+......|||..||..||..||
+---CCGTACTGTCAAGCGTGG
+
+
+--------------------------------------------- 
+
+
+
+
+Identity = 45.5 10/22
+Score = -2
+Sequence 1 : 
+--A--AAATTTACCTCGCAAGG
+
+
+Sequence 2 : 
+TGAGTAAA-CGACGTC-CCA--
+
+
+Sym : 
+--A--AAATTTACCTCGCAAGG
+..|..|||...||.||.|.|..
+TGAGTAAA-CGACGTC-CCA--
+
+
+--------------------------------------------- 
+
+
+
+
+Identity = 52.4 11/21
+Score = 1
+Sequence 1 : 
+AAAATTTAC-CTC-G-CAAGG
+
+
+Sequence 2 : 
+-TACTTAACACCCTGTCAA---
+
+Sym : 
+AAAATTTAC-CTC-G-CAAGG
+..|.||.||.|.|.|.|||..
+-TACTTAACACCCTGTCAA---
+
+--------------------------------------------- 
+
+
+
+
+Identity = 45.5 10/22
+Score = -2
+Sequence 1 : 
+CCGTACTGTCAA-G-CGT--GG
+
+
+Sequence 2 : 
+-TG-A--GTAAACGACGTCCCA
+
+
+Sym : 
+CCGTACTGTCAA-G-CGT--GG
+..|.|..||.||.|.|||....
+-TG-A--GTAAACGACGTCCCA
+
+
+--------------------------------------------- 
+
+
+
+
+Identity = 47.6 10/21
+Score = -1
+Sequence 1 : 
+CCGTACTGT--CAAGC-GTGG
+
+
+Sequence 2 : 
+---TACT-TAACACCCTGTCAA
+
+Sym : 
+CCGTACTGT--CAAGC-GTGG
+...||||.|..||..|.||..
+---TACT-TAACACCCTGTCAA
+
+--------------------------------------------- 
+
+
+
+
+Identity = 57.9 11/19
+Score = 3
+Sequence 1 : 
+TGAGTAAACGA-CGTCCCA
+
+
+Sequence 2 : 
+T-ACTTAAC-ACCCTGTCAA
+
+Sym : 
+TGAGTAAACGA-CGTCCCA
+|.|.|.|||.|.|.|..||
+T-ACTTAAC-ACCCTGTCAA
+
+--------------------------------------------- 
+
+
+
